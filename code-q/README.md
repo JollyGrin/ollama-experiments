@@ -22,3 +22,6 @@ Model:
 ```
 
 Give it a few seconds and it will begin to respond
+
+## demo
+![](./demo.mp4)
