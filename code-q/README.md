@@ -24,5 +24,7 @@ Model:
 Give it a few seconds and it will begin to respond
 
 ## demo
-![](https://github.com/JollyGrin/ollama-experiments/raw/refs/heads/main/code-q/demo.mp4)
+https://github.com/user-attachments/assets/f11aae51-5054-42fc-92f3-c7d03cbc7f08
+
+
 
