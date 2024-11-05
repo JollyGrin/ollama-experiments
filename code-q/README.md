@@ -24,4 +24,5 @@ Model:
 Give it a few seconds and it will begin to respond
 
 ## demo
-![](./demo.mp4)
+![](https://github.com/JollyGrin/ollama-experiments/raw/refs/heads/main/code-q/demo.mp4)
+
